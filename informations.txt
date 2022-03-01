@@ -1,0 +1,59 @@
+==============================================================
+
+                       DESCRIPTION
+
+    Runner game. A cube move from the left of a given map
+                        to an end.
+
+     In order to reach the end of the level, the player
+         will have to jump over many obstacles.
+
+      The score of the player depend of the number of
+              coins he was able to gather.
+
+    The score of the player will be recorded only if he
+            is able to finish the entire map.
+
+                          USAGE
+
+             Use "make" in order to compile
+                       the game.
+
+           Then, use the <./my_runner [map]> command
+               in order to launch the game.
+           ( For a proper functionnement of the
+         game, a map must be given as a parameter ).
+
+           The map should only contain id numbers.
+            You can find a list of the ID below:
+
+                     [GROUND] : 1
+                    [MONSTER] : 2
+                        [SAW] : 3
+                   [PLATFORM] : 4
+                      [SPIKE] : 5
+                   [JUMP PAD] : 6
+                       [COIN] : 8
+                      [MALUS] : 9
+                        [END] : 7
+
+                   USER INTERACTIONS
+
+                 SPACE_KEY   :   jump
+
+            MOUSE_LEFT_CLICK :  naviguate through menus
+
+                  <P>_KEY    :   pause/play the game
+
+                        OPTIONS
+
+           -h   display informations about the game
+
+           -i   infinite_mod (not currently functionnal)
+
+			CREDITS
+
+		    Baptiste - map5
+		Matthias - Editieur de map
+
+===============================================================
