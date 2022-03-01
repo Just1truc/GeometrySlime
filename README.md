@@ -7,13 +7,13 @@ This game is programmed in CSFLM which is a library of C based on the C++'s SFML
 
 # Sommaire
 
-- [Requirements](##Requirements)
-- [Installation](##Installation)
-- [Menus](##Menus)
-- [Gameplay](##Gameplay)
-- [Map Creation](##Map_Creation)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Menus](#menus)
+- [Gameplay](#gameplay)
+- [Map Creation](#map_creation)
 
-## Requirements
+## Requirements <a name="Requirements"></a>
 
 In order to use this game, there is some dependencies to install the CSFML library.
 
@@ -89,7 +89,7 @@ Score interactions:
 
 The differents obstacles can kill except one : the **jump pad**
 
-## Map_Creation
+## Map Creation <a name="map_creation"></a>
 
 Indeed, you can create your on map !
 And it's not complicated. All you have to do is create a text file containing specific characters representing map elements.
