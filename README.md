@@ -1,10 +1,6 @@
 # Geometry Slime
 ## _A Geometry Dash like game_
 
-#
-#
-#
-
 Geometry Slime a simple game where you have to make a slime goes from the begining of a map all the way to the end.
 
 This game is programmed in CSFLM which is a library of C based on the C++'s SFML library.
