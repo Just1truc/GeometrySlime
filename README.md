@@ -22,7 +22,7 @@ CSFML is the official binding of SFML for C language. It can be install using th
 Also, if you want to use a github project, you should have git installed !
 If that's not the case, just install it following the tutorial on the [website](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
-## Installation
+## Installation <a name="installation"></a>
 
 Every game need to be installed at one point, so here we are !
 In order to install it properly, you can just follow the steps below.
@@ -57,7 +57,7 @@ After the end of the compilation, you can use the following command to launch th
 
 Congratulation, you successfully launched the game.
 
-## Menus
+## Menus <a name="menus"></a>
 
 Once the game is launched, you should have a window that look like the one below :
 
@@ -72,7 +72,7 @@ Also, on this first page you can launch the game by either pressing the *space* 
 
 Furthermore, you can setup the parameters by clicking on the cog icon or customize your character by clicking on the slime icon.
 
-## GAMEPLAY
+## GAMEPLAY <a name="gameplay"></a>
 
 The game is far from difficult. All you have to do to finish a level is to avoid obstacles in order to get to the right side of the map.
 
